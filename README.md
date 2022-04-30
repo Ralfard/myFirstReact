@@ -1,2 +1,2 @@
 # myFirstReact
-Created with CodeSandbox
+Мои попытки изучения фреймворка React
